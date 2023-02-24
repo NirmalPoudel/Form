@@ -1,0 +1,24 @@
+#first{
+    height : 20vh;
+    width : 100%;
+    display : flex; 
+
+}
+.sec{
+    width : 50%;
+    height : 20vh;
+    background-color:rgb(254, 254, 254);
+
+}
+.third{
+    width : 50%;
+    height : 20vh;
+
+    background-color: white;
+}
+.lb{
+    background-color: lightblue;
+}
+h2{
+    color :blue;
+}
